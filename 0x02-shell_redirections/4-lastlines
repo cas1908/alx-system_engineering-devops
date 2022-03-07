@@ -1,0 +1,2 @@
+#!/binn/bash
+tail -10 4- /etc/passwd
